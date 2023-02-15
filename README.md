@@ -12,8 +12,11 @@
 ## ♟ Repository Rule
 - 업로드한 학습 소주제를 README 학습 주제의 하위 목차 생성 후, 링크 연결
 - <b>Commit Message Convention</b> : 
-  - 내용 업로드  :  `docs: [대주제] 소주제 분류`  ex. docs: [OS] 프로세스와 스레드  
+  - 내용 업로드  :  `docs: [대주제] 소주제 분류`  ex. docs: [OS] 프로세스&스레드  
   - 내용 추가/수정/삭제  :  `edit: [대주제] 변경사항 추가/수정/삭제`  ex. edit: [OS] 프로세스 내용 수정
+
+- <b>File Naming Convention</b> :
+  - `소주제분류_깃헙이름.md`   ex.프로세스&스레드_HyeM207.md 
 
 <br>
 
